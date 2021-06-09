@@ -124,3 +124,17 @@ a:hover {
 .bg-c {
     background-color: yellowgreen;
 }
+
+/* ----- Media Queries ----- */
+
+@media screen and (max-width: 600px) {
+
+    .header {
+        padding: 0 25px;
+    }
+
+    .background {
+        font-size: 2rem;
+    }
+
+}
