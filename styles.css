@@ -133,7 +133,7 @@ a:hover {
         padding: 0 25px;
     }
 
-    .background {
+    .background, .color {
         font-size: 2rem;
     }
 
